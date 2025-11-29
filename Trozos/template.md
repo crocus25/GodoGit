@@ -6,7 +6,6 @@
     <CODING>
 </HEAD>
 
-
 # ABSTRACT
 # ESCENARI
 # TOC
