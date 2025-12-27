@@ -13,3 +13,14 @@ Alternativamente, puedes crear el repositorio en GitHub primero desde el sitio w
  Esto es útil si prefieres configurar el repositorio remoto antes de trabajar con él localmente.
 
 En resumen, puedes crear un repositorio desde VS Code directamente mediante la publicación de un repositorio local existente, lo cual crea automáticamente el repositorio remoto en GitHub.
+
+**Existe un menú en Visual Studio Code que te permite acceder a la acción para crear un repositorio**, aunque el nombre exacto puede variar según la versión y la configuración.
+
+Puedes encontrar la opción en la barra de menús:
+
+Ve a Git > Crear repositorio de Git (en inglés: Git > Create Git Repository).
+Al seleccionarlo, VS Code te guiará para inicializar un repositorio local y, opcionalmente, publicarlo directamente en GitHub.
+Además, también puedes acceder a esta funcionalidad desde:
+
+La paleta de comandos (Ctrl+Shift+P) buscando "Git: Initialize Repository" o "Git: Create Repository".
+La vista de Control de Código Fuente (icono de ramificación en la barra lateral), donde puedes hacer clic en "Initialize Repository".
