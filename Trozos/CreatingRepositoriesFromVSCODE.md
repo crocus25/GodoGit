@@ -1,5 +1,7 @@
 Para crear un nuevo repositorio en GitHub desde Visual Studio Code (VS Code), sigue estos pasos:
 
+Antes de nada y visto el funcionamiento de VSCODE, cabe decir que creemos más idóneo hacer el git init que hacerlo desde dentro del propio editor. A pesar que es posible, las continuas mejoras y cambios del editor y de la extensión hacen cambios significativos en los menús y convierten el intento en una aventura por encontrar estás órdenes de menú. Aún así, procedemos a enunciar los pasos para hacerlo por si, a pesar de la advertencia nos empeñamos en el intento.
+
 Primero, asegúrate de tener instalada la extensión "GitHub Pull Requests and Issues" en VS Code, ya que facilita la integración con GitHub.
  Luego, inicia sesión en tu cuenta de GitHub desde VS Code para autenticarte.
 
