@@ -8,4 +8,4 @@ Una vez inicializado, puedes agregar los archivos del proyecto al área de prepa
 ´´´git commit -m "Mensaje del commit"´´´
 para registrar el estado inicial del proyecto.
 
-Si deseas conectar este repositorio local con un repositorio remoto en GitHub, puedes usar git remote add origin <URL-del-repositorio-remoto> seguido de git push -u origin main para subir los cambios al repositorio remoto.
+Si deseas conectar este repositorio local con un repositorio remoto en GitHub, puedes usar git remote add origin (URL-del-repositorio-remoto) seguido de git push -u origin main para subir los cambios al repositorio remoto.
